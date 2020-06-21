@@ -24,5 +24,5 @@ Optimize Shifted Rastrigin's Function in different dimensions, 50 and 500,by usi
 #### 7: Shifted Griewank's Function
 Optimize Shifted Griewank's Function in different dimensions, 50 and 500, by using SciPy package
 
-####8: Shifted Ackley's Function
+#### 8: Shifted Ackley's Function
 Optimize Shifted Ackley's Function in different dimensions, 50 and 500, by using SciPy package
