@@ -8,7 +8,7 @@ Optimized travelling saleman problem of 38 cities in Djibouti by using simulated
 ### 2: TSP_Qatar
 Travelling saleman problem of 194 cities in Qatar by using simulated annealing algorithm
 
-## C0ntinuous optimization
+## Continuous optimization
 #### 3: Shifted Sphere Function
 Optimize Shifted Sphere Function in different dimensions, 50 and 500, by using particle swarm optimization
 
