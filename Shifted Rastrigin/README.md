@@ -23,8 +23,8 @@
   
   - ### The fitness   
   Dimension 50 :   -1E+01 
-  Dimension 500:   -1E+02
+  Dimension 500:   -1.00E+04
 
 - ### The computational time  
   Dimension 50 :   486.7    seconds  
-  Dimension 500:   32.02 seconds
+  Dimension 500:   846.34 seconds
