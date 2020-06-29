@@ -3,14 +3,10 @@
 
 <image src = "https://user-images.githubusercontent.com/57988473/81190368-0c386b80-8fb8-11ea-9e2b-8cce867f33e5.png" width = "600">
 
-- ### Additional information  
-[Function Description](https://github.com/Khwansiri/Metaheuristic_DSTI/blob/master/Shifted%20Sphere%20Function/CEC2008_TechnicalReport.pdf)    
-[Code of the function](https://github.com/Khwansiri/Metaheuristic_DSTI/blob/master/Shifted%20Sphere%20Function/benchmark.c)      
-[Shifts](https://github.com/Khwansiri/Metaheuristic_DSTI/blob/master/Shifted%20Sphere%20Function/data.h)    
+ 
 
 - ### The chosen algorithm       
-  Evolutionary Algorithm with Global Discrete Strategy
-  
+  Evolutionary Algorithm   
   
   <img src="https://user-images.githubusercontent.com/57988473/81186672-5d922c00-8fb3-11ea-99b6-887b3a503dbb.png" width="700">   
 
@@ -23,6 +19,7 @@
   
   - ### The fitness   
   Dimension 50 :   -1E+01 
+  
   Dimension 500:   -1.00E+04
 
 - ### The computational time  
