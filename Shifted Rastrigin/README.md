@@ -13,13 +13,15 @@
 
 - ### The parameters of the algorithm   
   Number of parent (µ) = 120   
+  
   Number of children (λ) = µ*10 
+  
   Number of iterations (M) = 100
+  
   Increase sigma with 1/5th rule (0.85)   
   
   - ### The fitness   
-  Dimension 50 :   -1E+01 
-  
+  Dimension 50 :   -1E+01   
   Dimension 500:   -1.00E+04
 
 - ### The computational time  
