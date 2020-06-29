@@ -14,6 +14,7 @@
 
 - ### The fitness   
   Dimension 50 :   390.24 
+  
   Dimension 500:   390
 
 - ### The computational time  
