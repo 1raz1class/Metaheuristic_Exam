@@ -1,5 +1,5 @@
 # Discrete Optimization
-## TSP of 194 cities in Qatar  
+## TSP of 38 cities in Djibouti
 
 - ### The chosen algorithm       
   Simulated Annealing Algorithm   
