@@ -18,7 +18,7 @@ Social constant = 3
  
 - ### The fitness  
 Dimension 50  :   -449.99   
-Dimension 500 :   -900      
+Dimension 500 :   -449.99     
 
 - ###	The computational time   
 Dimension 50   :   0.992    seconds   
